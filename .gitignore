@@ -20,3 +20,4 @@ slurm.*
 _tmp_split/
 curlie.csv.gz
 >>>>>>> origin/feature/AI-system
+.env
