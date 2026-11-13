@@ -2,6 +2,9 @@ from System.System import System
 from System.BackendRequests import SessionData
 
 from fastapi import FastAPI, Header, HTTPException
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 app = FastAPI()
