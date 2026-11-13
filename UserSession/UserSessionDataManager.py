@@ -9,14 +9,16 @@ It will also need to write the summary and delete the old session json
 """
 class UserSessionDataManager:
 
-    def __init__(self):
-        self.session_table:str = "sessions"
-        self.metadata_table:str = "website_metadata"
+    def __init__(self, session_folder=None):
+        self.session_table = "sessions"
+        self.metadata_table = "website_metadata"
 
-        self.session_folder:Path = Path("UserSession/ActiveSessionDB")
+        self.session_folder = Path(
+            session_folder or "UserSession/ActiveSessionDB"
+        )
         self.session_folder.mkdir(parents=True, exist_ok=True)
 
-        self.session_path: Path | None = None
+        self.session_path = None
 
     
     def create_session_json(self, session_id: int) -> Path:

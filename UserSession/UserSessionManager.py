@@ -6,19 +6,22 @@ from .MetadataProcessing.SessionInterfaces import IWebsiteMetadataEvaluator
 from .AIEval.AISessionEval import AISessionEval
 from .StopSession.StopSession import StopSession
 from .BlockingWebsites.WebsiteBlockerManager import WebsiteBlockerManager
+from threading import RLock
 
 
 from .ActiveUserSession import ActiveUserSessionManager
 
 class UserSessionCoordinator(IUserSessionCoordinator):
-    def __init__(self, session_folder, clock):
-        """I need to add threading to this to make it threading safe. This file shouldnt do anything but coordinate. Logic is handeled in the manager Files"""
+    def __init__(self, session_folder, clock, ai_eval):
+        self.lock = RLock()
+        self.active_session = None
+        self.ai_eval = ai_eval
 
         self.active_session: SessionInfo = None
-        self.ai_eval = AISessionEval() #needs an interface
+
         self.website_meta_data_evaluator: IWebsiteMetadataEvaluator = WebsiteMetadataEvaluator()
         self.session_start:SessionInfo = SessionStart()
-        self.user_session_data_manager = UserSessionDataManager()# -> add interface to this
+        self.user_session_data_manager = UserSessionDataManager(session_folder=session_folder)# -> add interface to this
         self.stop_session = StopSession()
         self.website_blocking_manager = WebsiteBlockerManager(self.ai_eval)
         self.active_user_session = ActiveUserSessionManager(self.website_meta_data_evaluator, self.ai_eval, self.website_blocking_manager)# -> add interface to this

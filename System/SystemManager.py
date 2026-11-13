@@ -60,22 +60,35 @@ class AuthenticateUser:
         self.session_managers = session_managers
         self.lock = lock
         self.clock = clock
+        self.ai_eval = None
 
+    
     def for_user(self, user_id):
         with self.lock:
             if user_id not in self.session_managers:
+
                 if user_id not in self.system_db_manager.get_users():
                     raise ValueError("Unknown user")
+
                 folder = (
                     self.session_folder
                     / hashlib.sha256(user_id.encode()).hexdigest()
                 )
+
+                # Load the AI only once for all users.
+                if self.ai_eval is None:
+                    self.ai_eval = AISessionEval()
+
                 manager = UserSessionCoordinator(
                     session_folder=folder,
-                    clock=self.clock
+                    clock=self.clock,
+                    ai_eval=self.ai_eval
                 )
+
                 self.session_managers[user_id] = manager
+
             return self.session_managers[user_id]
+
 
     def register_user(self):
         user_id = str(uuid.uuid4())

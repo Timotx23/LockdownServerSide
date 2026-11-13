@@ -1,0 +1,41 @@
+{
+    "session_info": {
+        "id": "19beeb0a-7a35-4e4b-8ca2-8277017ecefe",
+        "topic": "math",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-12T15:13:14.078516",
+        "last_update_time": "2026-11-12T15:13:14.078516",
+        "predicted_end_time": "2026-11-12T15:58:14.078516",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 2,
+        "complete_session": false
+    },
+    "website_metadata": [
+        {
+            "tab_id": 66851135,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/",
+            "favicon": "",
+            "timestamp": "2026-11-12T15:13:16.402Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 69.7990273129999,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851135,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/",
+            "favicon": "",
+            "timestamp": "2026-11-12T15:13:16.402Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 69.7990273129999,
+            "is_related": null
+        }
+    ]
+}

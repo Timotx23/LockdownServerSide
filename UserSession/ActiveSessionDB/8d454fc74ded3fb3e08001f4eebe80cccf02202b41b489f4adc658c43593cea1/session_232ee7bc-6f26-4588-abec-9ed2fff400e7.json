@@ -1,0 +1,16 @@
+{
+    "session_info": {
+        "id": "232ee7bc-6f26-4588-abec-9ed2fff400e7",
+        "topic": "chess",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-12T15:12:09.677371",
+        "last_update_time": "2026-11-12T15:12:09.677371",
+        "predicted_end_time": "2026-11-12T15:57:09.677371",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 0,
+        "complete_session": false
+    },
+    "website_metadata": []
+}
