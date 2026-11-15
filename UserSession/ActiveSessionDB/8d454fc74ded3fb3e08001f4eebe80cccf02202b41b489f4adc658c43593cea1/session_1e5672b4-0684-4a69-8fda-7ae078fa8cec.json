@@ -1,0 +1,137 @@
+{
+    "session_info": {
+        "id": "1e5672b4-0684-4a69-8fda-7ae078fa8cec",
+        "topic": "math",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-15T14:38:30.059198",
+        "last_update_time": "2026-11-15T14:38:30.059198",
+        "predicted_end_time": "2026-11-15T15:23:30.059198",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 10,
+        "complete_session": false
+    },
+    "website_metadata": [
+        {
+            "tab_id": 66851840,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/bb2198ae/img/favicon.ico",
+            "timestamp": "2026-11-15T14:38:32.148Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 3.735379732999718,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851841,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/bb2198ae/img/favicon.ico",
+            "timestamp": "2026-11-15T14:38:36.116Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 41.578325815004064,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851841,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/bb2198ae/img/favicon.ico",
+            "timestamp": "2026-11-15T14:38:36.116Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 41.578325815004064,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851842,
+            "title": "free math games - Google Zoeken",
+            "url": "https://www.google.com/search?q=free+math+games&rlz=1C5OZZY_enNL1221NL1221&oq=free+math+game&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQgzMTA0ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+            "favicon": "",
+            "timestamp": "2026-11-15T14:40:10.602Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 2.4107642589951865,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851844,
+            "title": "free math games - Google Zoeken",
+            "url": "https://www.google.com/search?q=free+math+games&rlz=1C5OZZY_enNL1221NL1221&oq=fre&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyDggCEEUYOxhDGIAEGIoFMgYIAxBFGDsyEggEEAAYQxiDARixAxiABBiKBTIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPdIBBzg5N2owajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+            "favicon": "",
+            "timestamp": "2026-11-15T14:40:15.279Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 14.475526513997465,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851845,
+            "title": "free math games - Google Zoeken",
+            "url": "https://www.google.com/search?q=free+math+games&rlz=1C5OZZY_enNL1221NL1221&oq=free+&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MhIIARAAGEMYgwEYsQMYgAQYigUyDggCEEUYOxhDGIAEGIoFMg0IAxAAGIMBGLEDGIAEMgoIBBAAGLEDGIAEMgYIBRBFGDwyBggGEEUYPTIGCAcQRRg90gEINDI0NWowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+            "favicon": "",
+            "timestamp": "2026-11-15T14:40:29.754Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 12.554766891000327,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851846,
+            "title": "math games - Google Zoeken",
+            "url": "https://www.google.com/search?q=math+games&rlz=1C5OZZY_enNL1221NL1221&oq=math&gs_lcrp=EgZjaHJvbWUqDAgAEAAYQxiABBiKBTIMCAAQABhDGIAEGIoFMgYIARBFGDkyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyDAgFEAAYQxiABBiKBTIGCAYQRRg8MgYIBxBFGDzSAQgyMTE0ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+            "favicon": "",
+            "timestamp": "2026-11-15T14:40:42.308Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 0.8978089740267023,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851848,
+            "title": "math - Google Zoeken",
+            "url": "https://www.google.com/search?q=math&rlz=1C5OZZY_enNL1221NL1221&oq=math+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgoIAhAAGLEDGIAEMgcIAxAAGIAEMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMTcxajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+            "favicon": "",
+            "timestamp": "2026-11-15T14:40:45.131Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 3.42753154199454,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851849,
+            "title": "Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen",
+            "url": "https://nl.khanacademy.org/",
+            "favicon": "https://cdn.kastatic.org/images/favicon.ico?logo",
+            "timestamp": "2026-11-15T14:40:48.554Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 66.51265067199711,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851849,
+            "title": "Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen",
+            "url": "https://nl.khanacademy.org/",
+            "favicon": "https://cdn.kastatic.org/images/favicon.ico?logo",
+            "timestamp": "2026-11-15T14:40:48.554Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 66.51265067199711,
+            "is_related": null
+        }
+    ]
+}

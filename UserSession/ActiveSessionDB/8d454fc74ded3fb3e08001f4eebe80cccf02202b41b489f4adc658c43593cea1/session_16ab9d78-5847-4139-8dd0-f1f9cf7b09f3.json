@@ -1,0 +1,53 @@
+{
+    "session_info": {
+        "id": "16ab9d78-5847-4139-8dd0-f1f9cf7b09f3",
+        "topic": "chess",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-13T12:36:56.668086",
+        "last_update_time": "2026-11-13T12:36:56.668086",
+        "predicted_end_time": "2026-11-13T13:21:56.668086",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 3,
+        "complete_session": false
+    },
+    "website_metadata": [
+        {
+            "tab_id": 66851764,
+            "title": "Chess.com - Schaken Online - Gratis Partijen",
+            "url": "https://www.chess.com/nl",
+            "favicon": "",
+            "timestamp": "2026-11-13T12:36:59.262Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 3.5494168869918212,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851766,
+            "title": "Chess.com - Schaken Online - Gratis Partijen",
+            "url": "https://www.chess.com/nl",
+            "favicon": "",
+            "timestamp": "2026-11-13T12:37:07.414Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 1.7138898940029321,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851768,
+            "title": "khan academy - Google Zoeken",
+            "url": "https://www.google.com/search?q=khan+academy&rlz=1C5OZZY_enNL1221NL1221&oq=kh&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MhAIARAuGMcBGLEDGNEDGIAEMgYIAhBFGDkyEAgDEC4YrwEYxwEYsQMYgAQyCggEEAAYsQMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQczNDFqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+            "favicon": "",
+            "timestamp": "2026-11-13T12:37:15.672Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 1.8982078120025108,
+            "is_related": null
+        }
+    ]
+}

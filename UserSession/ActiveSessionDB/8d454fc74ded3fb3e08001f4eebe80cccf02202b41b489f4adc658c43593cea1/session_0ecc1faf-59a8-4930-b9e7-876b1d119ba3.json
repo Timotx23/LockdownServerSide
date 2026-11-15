@@ -1,0 +1,89 @@
+{
+    "session_info": {
+        "id": "0ecc1faf-59a8-4930-b9e7-876b1d119ba3",
+        "topic": "math",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-13T13:26:28.914353",
+        "last_update_time": "2026-11-13T13:26:28.914353",
+        "predicted_end_time": "2026-11-13T14:11:28.914353",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 6,
+        "complete_session": false
+    },
+    "website_metadata": [
+        {
+            "tab_id": 66851790,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/e1362f45/img/favicon.ico",
+            "timestamp": "2026-11-13T13:26:30.500Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 8.019082808000348,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851789,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/e1362f45/img/favicon.ico",
+            "timestamp": "2026-11-13T13:26:38.818Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 7.919679858000109,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851792,
+            "title": "Chess.com - Schaken Online - Gratis Partijen",
+            "url": "https://www.chess.com/nl",
+            "favicon": "",
+            "timestamp": "2026-11-13T13:26:41.082Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 0.6920659030001843,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851789,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/e1362f45/img/favicon.ico",
+            "timestamp": "2026-11-13T13:26:38.818Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 5.2787776390000545,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851794,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/e1362f45/img/favicon.ico",
+            "timestamp": "2026-11-13T13:36:10.961Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 1.4414135600000009,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851789,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "https://www.youtube.com/s/desktop/e1362f45/img/favicon.ico",
+            "timestamp": "2026-11-13T13:26:38.818Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 7.919679858000109,
+            "is_related": null
+        }
+    ]
+}

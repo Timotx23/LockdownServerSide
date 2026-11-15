@@ -13,7 +13,7 @@ from DataBase.DataBaseManager import DataBaseManager
 from DataBase.IDataBaseManager import IDataBaseManager
 from UserSession.UserSessionManager import UserSessionCoordinator
 from PastSessions.PastSessionManager import PastSessionManager
-from UserSession.AIEval.RemoteAISessionEval import RemoteAISessionEval
+from Server.ServerManager import server_manager
 
 class SetupSystem:
 
@@ -77,7 +77,7 @@ class AuthenticateUser:
 
                 # Load the AI only once for all users.
                 if self.ai_eval is None:
-                    self.ai_eval = RemoteAISessionEval()
+                    self.ai_eval = server_manager.ai_eval
 
                 manager = UserSessionCoordinator(
                     session_folder=folder,

@@ -1,0 +1,65 @@
+{
+    "session_info": {
+        "id": "d9afede3-2199-439a-aad7-1783db758a77",
+        "topic": "Math",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-13T12:20:10.155803",
+        "last_update_time": "2026-11-13T12:20:10.155803",
+        "predicted_end_time": "2026-11-13T13:05:10.155803",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 4,
+        "complete_session": false
+    },
+    "website_metadata": [
+        {
+            "tab_id": 66851753,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "",
+            "timestamp": "2026-11-13T12:20:13.787Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 7.4090486469940515,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851123,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "",
+            "timestamp": "2026-11-13T12:20:24.181Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 1.193118762006634,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851760,
+            "title": "Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen",
+            "url": "https://nl.khanacademy.org/",
+            "favicon": "https://cdn.kastatic.org/images/favicon.ico?logo",
+            "timestamp": "2026-11-13T12:20:27.155Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 41.05609442500281,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851762,
+            "title": "YouTube",
+            "url": "https://www.youtube.com/?app=desktop&hl=NL",
+            "favicon": "",
+            "timestamp": "2026-11-13T12:21:09.803Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 0.849864866991993,
+            "is_related": null
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "session_info": {
+        "id": "85acb961-edb2-4191-926e-1c6bc59c4871",
+        "topic": "math",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-15T15:16:50.722938",
+        "last_update_time": "2026-11-15T15:16:50.722938",
+        "predicted_end_time": "2026-11-15T16:01:50.722938",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 2,
+        "complete_session": false
+    },
+    "website_metadata": [
+        {
+            "tab_id": 66851871,
+            "title": "Chess.com - Schaken Online - Gratis Partijen",
+            "url": "https://www.chess.com/nl",
+            "favicon": "",
+            "timestamp": "2026-11-15T15:16:53.112Z",
+            "block": null,
+            "currently_open": false,
+            "currently_active": false,
+            "time_spent": 4.585377272014739,
+            "is_related": null
+        },
+        {
+            "tab_id": 66851849,
+            "title": "Khan Academy | Gratis Online Cursussen, Lessen & Oefeningen",
+            "url": "https://nl.khanacademy.org/",
+            "favicon": "https://cdn.kastatic.org/images/favicon.ico?logo",
+            "timestamp": "2026-11-15T14:40:48.554Z",
+            "block": null,
+            "currently_open": true,
+            "currently_active": false,
+            "time_spent": 70.20841598100378,
+            "is_related": null
+        }
+    ]
+}

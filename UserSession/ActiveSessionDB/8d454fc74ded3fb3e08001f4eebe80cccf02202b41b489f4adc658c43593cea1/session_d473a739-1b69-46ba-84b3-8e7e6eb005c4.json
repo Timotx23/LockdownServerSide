@@ -1,0 +1,16 @@
+{
+    "session_info": {
+        "id": "d473a739-1b69-46ba-84b3-8e7e6eb005c4",
+        "topic": "math",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-13T12:55:27.088991",
+        "last_update_time": "2026-11-13T12:55:27.088991",
+        "predicted_end_time": "2026-11-13T13:40:27.088991",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 0,
+        "complete_session": false
+    },
+    "website_metadata": []
+}

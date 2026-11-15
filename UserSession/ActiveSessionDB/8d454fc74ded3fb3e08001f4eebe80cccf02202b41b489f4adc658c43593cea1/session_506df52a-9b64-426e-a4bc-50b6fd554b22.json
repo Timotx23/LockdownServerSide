@@ -1,0 +1,16 @@
+{
+    "session_info": {
+        "id": "506df52a-9b64-426e-a4bc-50b6fd554b22",
+        "topic": "hello",
+        "is_running": true,
+        "time": 2700,
+        "start_time": "2026-11-15T14:35:50.246460",
+        "last_update_time": "2026-11-15T14:35:50.246460",
+        "predicted_end_time": "2026-11-15T15:20:50.246460",
+        "actual_end_time": null,
+        "blocked_tabs": 0,
+        "tab_count": 0,
+        "complete_session": false
+    },
+    "website_metadata": []
+}

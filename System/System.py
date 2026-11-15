@@ -2,6 +2,7 @@ from interfaces import IServerManage, IUserSessionCoordinator, IUserSessionCoord
 from .BackendRequests import BackendRequests, SessionData, FrontEndSessionData 
 from Settings.Settings import Settings
 from .SystemManager import SetupSystem, SystemDatabaseManager, SessionSummaryManager
+from Server.ServerManager import server_manager
 
 
 class System():
@@ -79,6 +80,8 @@ class System():
             response = user_session_manager.user_session_manager(
                 action, content
             )
+            if action == "start_session":
+                server_manager.start_in_background()
 
             if action == "end_session":
                 summary = user_session_manager.send_to_global_db_manager()
@@ -94,9 +97,6 @@ class System():
          # must return a dictionary formated: action: str  content: dict
         settings =  self.settings.settings_manager(action=action, content= content)
         return settings
-
-    
-
 
     def run_past_session(self,action,content,user_id,manager) -> dict[str:str, str: dict]:
         result = self.session_summary_manager.get_past_session(action,content,user_id,manager)
